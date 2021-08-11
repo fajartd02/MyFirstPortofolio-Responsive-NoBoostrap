@@ -7,5 +7,5 @@ Score > 50 -> See Portofolio
 
 # Belajar Syntax readme.md
 <h2>Testing</h2>
-Testing -
+Testing
 -----------
