@@ -19,4 +19,5 @@ Coba yang ini lebih besar
 >
 > ea gan
 >> coba masuk ahk
+>>> edinn coba 3x gan
 
