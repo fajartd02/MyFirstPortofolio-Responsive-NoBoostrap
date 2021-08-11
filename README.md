@@ -30,5 +30,5 @@ Coba yang ini lebih besar
 1. Coba
 2. Edan
 3. Tigaa coy
-9. Ini harusnya empat
+9. Ini harusnya empat (padahal nulisnya 9)
 
