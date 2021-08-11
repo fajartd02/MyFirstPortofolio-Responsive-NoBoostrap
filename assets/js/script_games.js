@@ -18,7 +18,7 @@ document.addEventListener('keypress', function() {
 
 setInterval(function () {
     if(score.innerText >= 80) {
-        window.location.href = 'index.html';
+        window.location.href = 'portofolio.html';
     }
 
     score.innerText++;
