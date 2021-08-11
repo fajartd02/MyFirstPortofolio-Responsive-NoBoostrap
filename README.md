@@ -10,7 +10,6 @@ Coba yang ini lebih besar
 =========================
 
 > Testing ea
------------
 
 <h2> gaming </h2>
 
