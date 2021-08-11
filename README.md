@@ -1,8 +1,8 @@
 # MyFirstPortofolio-Responsive-NoBoostrap
-My First Portofolio ***without framework.*** But, if you want see my portofolio, you should beat the game until the score is more than 50 (score > 50).
+My First Portofolio ***without framework.*** But, if you want see my portofolio, you should beat the game until the score is more than 80 (score > 80).
 
 ### NOTED
-Score > 50 -> See Portofolio
+Score > 80 -> See Portofolio
 
 # Belajar Syntax readme.md
 
