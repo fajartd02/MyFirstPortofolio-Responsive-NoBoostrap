@@ -8,8 +8,8 @@ Score > 50 -> See Portofolio
 # Belajar Syntax readme.md
 
 Coba yang ini lebih besar
-=
+=========================
 Testing ea
 -----------
 <h2> gaming </h2>
-<h1> h1 ni gaes </h1>
+<h4> h1 ni gaes </h4>
