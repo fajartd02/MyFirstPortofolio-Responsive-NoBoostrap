@@ -21,7 +21,7 @@ Coba yang ini lebih besar
 >> coba masuk ahk
 >>> edinn coba 3x gan
 
-> Block Quotes With List
+> **Block Quotes With List**
 >> - List 1
 >> - List 2
 >> - List 3
