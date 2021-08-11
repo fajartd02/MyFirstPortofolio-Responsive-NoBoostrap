@@ -6,5 +6,9 @@ Score > 50 -> See Portofolio
 
 
 # Belajar Syntax readme.md
+
 Testing ea
 -----------
+<h2> gaming </h2>
+fajar 
+=====
